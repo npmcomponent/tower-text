@@ -1,5 +1,6 @@
 {
   "name": "tower-text",
+  "description": "Tower Text component",
   "version": "0.1.0",
   "keywords": [
     "internationalization",
@@ -9,9 +10,7 @@
     "translation",
     "linguistics"
   ],
-  "main": "./index.js",
-  "repository": {
-    "type" : "git",
-    "url" : "http://github.com/tower/text.git"
-  }
+  "main": "index.js",
+  "dependencies": {},
+  "license": "MIT"
 }
